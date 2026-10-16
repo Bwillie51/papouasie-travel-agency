@@ -1,0 +1,1 @@
+{"name":"papouasie-travel-tours-agency","version":"0.1.0","private":true,"scripts":{"dev":"next dev","build":"next build","start":"next start"},"dependencies":{"@tailwindcss/postcss":"^4.3.3","autoprefixer":"^10.6.1","postcss":"^8.5.30","tailwindcss":"^4.3.3"}}
