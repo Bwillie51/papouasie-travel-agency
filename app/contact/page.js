@@ -1,3 +1,5 @@
+"use client";
+
 import React from 'react';
 import Navbar from '../../components/navigation/navbar';
 import DynamicForm from '../../components/forms/dynamic-form';
