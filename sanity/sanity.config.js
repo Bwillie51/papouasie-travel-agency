@@ -5,7 +5,7 @@ import {schemaTypes} from './schemas';
 export default defineConfig({
   name: 'default',
   title: 'Papouasie Desk Portal',
-  projectId: 'uq365x5z',
+  projectId: 'olaj27vi',
   dataset: 'production',
   plugins: [structureTool()],
   schema: { types: schemaTypes },
